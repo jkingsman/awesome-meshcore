@@ -86,7 +86,9 @@ or IoT sensor networks.
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
 | [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | 1 | Feb 26 |
-| [Meshcode Client](https://github.com/dz0ny/meshcore_client) | Flutter/Dart package implementing the MeshCore BLE companion protocol | 1 | Feb 26 |
+| [Meshcore Client](https://github.com/dz0ny/meshcore_client) | Flutter/Dart package implementing the MeshCore BLE companion protocol | 1 | Feb 26 |
+
+
 ## Maps and Diagnostics
 
 | Project / URL | Description |
