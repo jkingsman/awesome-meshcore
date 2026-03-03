@@ -147,6 +147,7 @@ or IoT sensor networks.
   - [MeshCore Portugal](https://meshcore.pt/)
 - Romania
   - [Brașov Mesh](https://brasovmesh.com/)
+  - [MeshCore Iasi](https://meshcore-iasi.ro/)
 - Slovak Republic
   - [Meshcore Slovakia](https://mesh.om3kff.sk/) 
 - Spain
