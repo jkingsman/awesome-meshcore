@@ -150,6 +150,7 @@ or IoT sensor networks.
 - Slovak Republic
   - [Meshcore Slovakia](https://mesh.om3kff.sk/) 
 - Spain
+  - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - Switzerland
@@ -177,7 +178,6 @@ or IoT sensor networks.
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
   - [North Dakota Mesh](https://nodakmesh.org/)
-  - [NomadMesh Alpujarras, Spain](https://nomadmesh.org/)
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
   - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
