@@ -72,22 +72,21 @@ or IoT sensor networks.
 
 ## Free and Open Source firmware
 
-| Project Name | Description | Stars | First Commit |
-| :--- | :--- | :---: | :---: |
-| [Lunacore](https://github.com/STCisGOOD/lunarcore) ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/lunarcore?style=social) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
-| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) ![GitHub Repo stars](https://img.shields.io/github/stars/Stachugit/MeshCore-Cardputer-ADV?style=social) | Cardputer ADV Specialized UI | 59 | Jan 26 |
-| [MC Term (Dabeani)](https://github.com/dabeani/meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/dabeani/meshcore?style=social) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
-| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/Meshcore-Wio-Tracker-L1-Pro?style=social) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
-| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) ![GitHub Repo stars](https://img.shields.io/github/stars/mattzzw/MeshCore-Evo?style=social) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling. See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 18 | Feb 26 |
-| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/meshcore-cardputer-adv?style=social) | Cardputer ADV Specialized UI | 17 | Feb 26 |
-| [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/CubeCellMeshCore?style=social) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | 6 | Jan 26 |
-| [Meck](https://github.com/pelgraine/Meck) ![GitHub Repo stars](https://img.shields.io/github/stars/pelgraine/Meck?style=social) | T-Deck pro | 3 | Jan 25 |
-| [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) ![GitHub Repo stars](https://img.shields.io/github/stars/mtoolstec/TapTapFW?style=social) | T1000-E & WisMesh Tag — enhanced messaging capabilities and specific button interactions | 3 | Feb 26 |
-| [Mesh Loader](https://github.com/eliahreeves/mesh-loader) ![GitHub Repo stars](https://img.shields.io/github/stars/eliahreeves/mesh-loader?style=social) | "Dual Boot" firmware for running Meshcore and Meshtastic on a single ESP32 based device without re-flashing. | 3 | Feb 26 |
-| [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/meshcomod?style=social) | MeshCore addon for Heltec WiFi LoRa 32 V4 | 2 | Feb 26 |
-| [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | 1 | Jan 26 |
-| [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | 1 | Mar 26 |
-
+| Project Name | Description | First Commit |
+| :--- | :--- | :---: |
+| [Lunacore](https://github.com/STCisGOOD/lunarcore) ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/lunarcore?style=social) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | Jan 26 |
+| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) ![GitHub Repo stars](https://img.shields.io/github/stars/Stachugit/MeshCore-Cardputer-ADV?style=social) | Cardputer ADV Specialized UI | Jan 26 |
+| [MC Term (Dabeani)](https://github.com/dabeani/meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/dabeani/meshcore?style=social) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | Jan 26 |
+| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/Meshcore-Wio-Tracker-L1-Pro?style=social) | Wio Tracker L1 Pro Custom firmware | Jan 26 |
+| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) ![GitHub Repo stars](https://img.shields.io/github/stars/mattzzw/MeshCore-Evo?style=social) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling. See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | Feb 26 |
+| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/meshcore-cardputer-adv?style=social) | Cardputer ADV Specialized UI | Feb 26 |
+| [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/CubeCellMeshCore?style=social) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | Jan 26 |
+| [Meck](https://github.com/pelgraine/Meck) ![GitHub Repo stars](https://img.shields.io/github/stars/pelgraine/Meck?style=social) | T-Deck pro | Jan 25 |
+| [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) ![GitHub Repo stars](https://img.shields.io/github/stars/mtoolstec/TapTapFW?style=social) | T1000-E & WisMesh Tag — enhanced messaging capabilities and specific button interactions | Feb 26 |
+| [Mesh Loader](https://github.com/eliahreeves/mesh-loader) ![GitHub Repo stars](https://img.shields.io/github/stars/eliahreeves/mesh-loader?style=social) | "Dual Boot" firmware for running Meshcore and Meshtastic on a single ESP32 based device without re-flashing. | Feb 26 |
+| [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/meshcomod?style=social) | MeshCore addon for Heltec WiFi LoRa 32 V4 | Feb 26 |
+| [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | Jan 26 |
+| [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
 
 
 ## Software Libraries
