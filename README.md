@@ -74,8 +74,8 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :---: |
-| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) ![GitHub Repo stars](https://img.shields.io/github/stars/Stachugit/MeshCore-Cardputer-ADV?style=social) | Cardputer ADV Specialized UI | 59 | Jan 26 |
 | [Lunacore](https://github.com/STCisGOOD/lunarcore) ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/lunarcore?style=social) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
+| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) ![GitHub Repo stars](https://img.shields.io/github/stars/Stachugit/MeshCore-Cardputer-ADV?style=social) | Cardputer ADV Specialized UI | 59 | Jan 26 |
 | [MC Term (Dabeani)](https://github.com/dabeani/meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/dabeani/meshcore?style=social) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/Meshcore-Wio-Tracker-L1-Pro?style=social) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
 | [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) ![GitHub Repo stars](https://img.shields.io/github/stars/mattzzw/MeshCore-Evo?style=social) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling. See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 18 | Feb 26 |
