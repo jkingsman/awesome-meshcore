@@ -32,6 +32,7 @@ or IoT sensor networks.
 - [Facebook](https://www.facebook.com/MeshCoreOfficial)
 - [YouTube](https://www.youtube.com/@meshcore-official)
 - [Video: How to get started ](https://redirect.invidious.io/watch?v=t1qne8uJBAc) with MeshCore (Also on [youtube](https://youtu.be/t1qne8uJBAc))
+- [Current state of Meshcore encryption](https://github.com/meshcore-dev/MeshCore/issues/259)
 
 ## Other Resources
 
@@ -77,13 +78,15 @@ or IoT sensor networks.
 | [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
 | [MC Term (Dabeani)](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
-| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 18 | ?? (fork of [official firmware](https://github.com/meshcore-dev/MeshCore), kept in sync (as of 2026-02-26)) |
+| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 18 | Feb 26 |
 | [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 26 |
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | 6 | Jan 26 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 25 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 26 |
+| [Mesh Loader](https://github.com/eliahreeves/mesh-loader) | "Dual Boot" firmware for running Meshcore and Meshtastic on a single Ep32 based device without re-flashing. | 3 | Feb 26 |
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) |  MeshCore addon for Heltec WiFi LoRa 32 V4 | 2 | Feb 26 |
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | 1 | Jan 26 |
+| [Meshcore custome firmware builder](https://github.com/christian45410/meshcore-cfw-builder) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | 1 | Mar 26 |
 
 
 
@@ -110,6 +113,7 @@ or IoT sensor networks.
 | [meshrf.net](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
 | [Mesh Utility](https://mesh-utility.org/) | Progressive Web App for mapping MeshCore LoRa coverage with optional cloud ingestion |
 | [MCSim](https://github.com/Brent-A/mcsim) | Simulation framework for MeshCore LoRa mesh networking firmware |
+| [Meshcore Geo Prune](https://static.pixelentry.de/meshcore/geo-prune/) | Clean up your contact list based on geofencing |
 
 
 ## Preinstalled devices
@@ -196,10 +200,12 @@ or IoT sensor networks.
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
+  - [Louisiana Mesh](https://louisianamesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
   - [Nevada Mesh](https://nvme.sh/)
   - [North Dakota Mesh](https://nodakmesh.org/)
+  - [Pioneer Valley Mesh](https://pvmesh.org/) 
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
   - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
@@ -240,6 +246,9 @@ In addition, there are e.g.:
 - Telegram group "[MeshCore DE](https://t.me/meshcorede)"
 - Discord "[MeshCore DE](https://discord.gg/uTMJQhh2P5)"
 - [WhatsApp group](https://chat.whatsapp.com/KDintomf4QoCu2GkPrnIn1)
+
+#### Russia
+- [Moscow Telegram group](https://t.me/meshcoremoscow)
 
 ### North America
 
