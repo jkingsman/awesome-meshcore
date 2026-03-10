@@ -69,6 +69,7 @@ or IoT sensor networks.
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) ![GitHub Repo stars](https://img.shields.io/github/stars/lucidnx/meshcore-drone-updater?style=social)  | updates meshcore nodes via drones to upgrade firmware on physically unreachable nodes |  Dec 25 |
 | [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social)  | Desktop Linux GUI via BLE |  Feb 26 |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
+| [MeshCore Email Gateway](https://github.com/MGJ520/MeshCore-Email-Gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/MGJ520/MeshCore-Email-Gateway?style=social)  | This gateway allows you to send and receive messages from MeshCore RF nodes using ordinary email, and comes with a web‑based management interface | Mar 26 |
 
 ## Free and Open Source firmware
 
