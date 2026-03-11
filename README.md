@@ -253,6 +253,7 @@ In addition, there are e.g.:
 
 #### USA
 - [Boston Mesh Discord](https://discord.gg/MUVASVEEES)
+- [CascadiaMesh Discord](https://discord.gg/m9yarB3p2E)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
