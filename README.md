@@ -149,7 +149,7 @@ or IoT sensor networks.
   - [Meshcore France](https://www.meshcore.fr/) 
 - Germany
   - German MeshCore wiki: [meshcore-de.fyi](https://meshcore-de.fyi/)
-  - [Braunschweig Mesh](https://bsmesh.de/)
+  - [BSmesh](https://bsmesh.de/) (area surrounding Braunschweig, includes several cities)
   - [Hansemesh](https://hansemesh.de/) (greater Hamburg region)
   - [Mesh Rheinland](https://www.meshrheinland.de/)
   - [Taunus Mesh](https://www.taunus-mesh.de/) (area enclosed by Frankfuurt(Main), Bingen, Koblenz, Giessen)
