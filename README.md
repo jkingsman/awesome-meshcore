@@ -71,6 +71,7 @@ or IoT sensor networks.
 | [MeshCore Email Gateway](https://github.com/MGJ520/MeshCore-Email-Gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/MGJ520/MeshCore-Email-Gateway?style=social)  | This gateway allows you to send and receive messages from MeshCore RF nodes using ordinary email, and comes with a web‑based management interface | Mar 26 |
 | [MC-Keygen](https://github.com/samschlegel/meshcore-utils)  ![GitHub Repo stars](https://img.shields.io/github/stars/samschlegel/meshcore-utils?style=social) | Vanity Ed25519 key generator for MeshCore. (AI Code) | Feb 26 |
 | [Esphome Meshcore (sensor) Component](https://github.com/netmilk/esphome-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/netmilk/esphome-meshcore?style=social) | Control anything ESPHome can touch — switches, sensors, fans, lights — over long-range LoRa mesh, managed from MeshCore Companion. | Mar 26 |
+| [](https://github.com/aaronb/wireshark-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/aaronb/wireshark-meshcore?style=social) | Wireshark protocol dissector and pcapng converter for MeshCore LoRa mesh networking | Mar 26 |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
 
 
