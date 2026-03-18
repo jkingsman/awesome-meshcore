@@ -16,6 +16,7 @@ or IoT sensor networks.
 - [Software Libraries](#software-libraries)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Preinstalled devices](#preinstalled-devices)
+- [BBS](#bbs)
 - [Bots](#bots)
 - [Country / region Websites](#country--region-websites)
 - [Chatgroups/ forums/ ...](#chatgroups-forums-)
@@ -125,11 +126,18 @@ or IoT sensor networks.
 
 
 ## Preinstalled devices
+
 | Product | Description |
 | :--- | :--- |
 | [T-Deck + (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.8" screen, Qwerty, GPS, ESP32-s3 |
 | [T-Lora pager (Lilygo)](https://lilygo.cc/products/t-lora-pager?pr_prod_strat=jac&pr_rec_id=0c4d477a3&pr_rec_pid=8223446597813&pr_ref_pid=8115572179125&pr_seq=uniform)|  2.3" screen, Qwerty, GPS, ESP32-s3 |
 
+
+## BBS
+
+| Project Name | Description | First Commit |
+| :--- | :--- | :---: |
+| [Mesh Citadel](https://github.com/taedryn/mesh-citadel) ![GitHub Repo stars](https://img.shields.io/github/stars/taedryn/mesh-citadel?style=social) | A MeshCore-first BBS, inspired by the Citadel BBSes of the 80s | Sep 25 | 
 
 ## Bots
 
