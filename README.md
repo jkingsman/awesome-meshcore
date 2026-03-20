@@ -182,7 +182,7 @@ or IoT sensor networks.
 - Latvia
   - [MeshCore Latvia](https://apraide.lv/)
 - Netherlands
-  - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
+  - [Wiki](https://meshwiki.nl/)
 - Poland
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
@@ -264,6 +264,11 @@ In addition, there are e.g.:
 - Telegram group "[MeshCore DE](https://t.me/meshcorede)"
 - Discord "[MeshCore DE](https://discord.gg/uTMJQhh2P5)"
 - [WhatsApp group](https://chat.whatsapp.com/KDintomf4QoCu2GkPrnIn1)
+
+#### Netherlands
+- [Forum](https://forum.meshcore-net.nl/)
+- [Telegram](https://t.me/meshcorenet)
+- [Discord](https://discord.com/channels/1343693475589263471/1345472768669384714)
 
 #### Russia
 - [Moscow Telegram group](https://t.me/meshcoremoscow)
