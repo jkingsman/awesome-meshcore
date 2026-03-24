@@ -210,6 +210,7 @@ or IoT sensor networks.
 ### North America
 
 - Canada
+  - [CascadiaMesh](https://cascadiamesh.org) - Pacific Northwest, currently covers British Columbia, Western Washington, and Western Oregon.  
   - [Greater Ottowa Mesh](https://ottawamesh.ca/)
   - [Puget Mesh](https://pugetmesh.org/)
   - [Salish Mesh](https://salishmesh.net/)
@@ -218,6 +219,7 @@ or IoT sensor networks.
   - [Austin, TX](https://www.austinmesh.org/)
   - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [Boston Mesh](https://bostonme.sh/)
+  - [CascadiaMesh](https://cascadiamesh.org) - Pacific Northwest, currently covers British Columbia, Western Washington, and Western Oregon. 
   - [Colorado Mesh](https://coloradomesh.org/)
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
