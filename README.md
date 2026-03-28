@@ -188,6 +188,7 @@ or IoT sensor networks.
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
+  - [MeshCore Wales](https://meshcore.wales/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
