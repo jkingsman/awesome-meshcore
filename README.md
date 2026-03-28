@@ -169,6 +169,8 @@ or IoT sensor networks.
    - [Meshcore Austria](https://www.meshcore-austria.at/doku.php?id=start)
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
+- Finland
+  - [Mesh Pirkanmaa](https://meshpirkanmaa.org/) (Tampere region, including Nokia, Pirkkala, and Ylöjärvi) 
 - France
   - [Meshcore France](https://www.meshcore.fr/) 
 - Germany
