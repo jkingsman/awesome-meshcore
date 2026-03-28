@@ -81,6 +81,7 @@ or IoT sensor networks.
 | [MeshOS for Android](https://github.com/andymux/meshos-releases) ![GitHub Repo stars](https://img.shields.io/github/stars/andymux/meshos-releases?style=social) | MeshOS for Android - An official MeshCore App  | Mar 26  | 
 | [Meshy](https://codeberg.org/sesivany/meshy) | a GTK4/libadwaita client for MeshCore. The goal, to provide the best Linux experience | Mar 26 | 
 | [Roadstr](https://github.com/jooray/roadstr) ![GitHub Repo stars](https://img.shields.io/github/stars/jooray/roadstr?style=social) | Decentralized road-event reporting using Nostr and MeshCore. Web and Android - "Waze without the centralized tracking" | Mar 26 |
+| [MeshCore HA UI](https://github.com/Ratty7198/MeshCore-HA-UI) ![GitHub Repo stars](https://img.shields.io/github/stars/Ratty7198/MeshCore-HA-UI?style=social)| A companion HACS integration that adds a full-featured dashboard for your MeshCore mesh network in Home Assistant (requires meshcore-ha) | Mar 26 | 
 
 ## Free and Open Source firmware
 
