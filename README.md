@@ -109,6 +109,7 @@ or IoT sensor networks.
 | [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
 | [weebl2000's MeshCore Firmware Builder](https://mcimages.weebl.me/) | Build and download firmware images for your device.|  |
 | [Heltec V4.2 Multi-Boot Selector](https://github.com/Finmacjones/HeltecV4.2MultiBoot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Finmacjones/HeltecV4.2MultiBoot?style=social) | Multi-firmware boot selector for Heltec WiFi LoRa 32 V4.2 (ESP32-S3) | Mar 26 |
+| [Meshcore T-beam-1W](https://github.com/mintylinux/Meshcore-T-beam-1W-Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/Meshcore-T-beam-1W-Firmware?style=social) | Meshcore firmware for the Lilygo T-beam 1 Watt | Feb 26 | 
 
 ## Software Libraries
 
