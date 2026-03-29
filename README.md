@@ -84,6 +84,7 @@ or IoT sensor networks.
 | [Roadstr](https://github.com/jooray/roadstr) ![GitHub Repo stars](https://img.shields.io/github/stars/jooray/roadstr?style=social) | Decentralized road-event reporting using Nostr and MeshCore. Web and Android - "Waze without the centralized tracking" | Mar 26 |
 | [MeshCore HA UI](https://github.com/Ratty7198/MeshCore-HA-UI) ![GitHub Repo stars](https://img.shields.io/github/stars/Ratty7198/MeshCore-HA-UI?style=social)| A companion HACS integration that adds a full-featured dashboard for your MeshCore mesh network in Home Assistant (requires meshcore-ha) | Mar 26 | 
 | [Meshcute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social) | Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting  | Mar 26 |
+| [Pico Meshcore](https://github.com/Vigoleis912/PicoMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigoleis912/PicoMeshCore?style=social) | A lightweight MeshCore Companion client written in MMBasic for the PicoMite (Raspberry Pi Pico). | Mar 26  |
 
 ## Free and Open Source firmware
 
