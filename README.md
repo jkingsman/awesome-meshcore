@@ -130,6 +130,7 @@ or IoT sensor networks.
 | [UK Mesh Network](https://www.ukmesh.com/) | UK-wide public site for MeshCore traffic, repeater coverage, observer ingestion, and the supporting documentation behind the live map. [github](https://github.com/gadgethd/ukmesh) |
 | [Mesh Community Planner](https://github.com/PapaSierra555/MeshCommunityPlanner/) | Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. |
 | [MeshCore Wall of Shame](https://advertrank.com/) | Who's flooding the mesh today? a lighthearted look at mesh traffic, not a witch hunt. | 
+| [uMap "Meshcore Regionen Deutschland"](https://umap.openstreetmap.de/de/map/meshcore-regionen-deutschland_122026#6/51.896834/9.843750) | Editable map of regions, mainly Germany. (Please also read [this context info](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern).) |
 
 
 ## Preinstalled devices
