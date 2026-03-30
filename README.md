@@ -26,6 +26,7 @@ or IoT sensor networks.
 ## Official Resources
 
 - [MeshCore.co.uk](https://meshcore.co.uk/) - The homepage & official documentation
+- [MeshCore.io](https://meshcore.io/) - The new homepage & official documentation
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
 - [Official Discord](https://discord.gg/ZVH2ujy9ex)
@@ -42,6 +43,7 @@ or IoT sensor networks.
 - [Video: Using the official Meshcore App (the comms channel)](https://redirect.invidious.io/watch?v=PeThXmxLE4k) (Also on [youtube](https://youtu.be/PeThXmxLE4k))
 - [LitBomb's Meshcore FAQ](https://github.com/LitBomb/MeshCore-FAQ) (English and German)
 - [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info)
+- [MeshCore OTA Firmware Update Guide](https://github.com/Mraanderson/meshcore-ota)
 
 
 ## Free and Open Source apps
@@ -78,6 +80,11 @@ or IoT sensor networks.
 | [MeshCore Insights](https://github.com/BomBefok/MeshcoreInsights)  ![GitHub Repo stars](https://img.shields.io/github/stars/BomBefok/MeshcoreInsights?style=social) | A Graphical software interface to interact with Meshcore companion nodes. | Mar 26 | 
 | [Yours](https://github.com/STCisGOOD/yours-x-lunarcore)  ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Encrypted P2P messaging over LoRa mesh, using Lunacore firmware | Mar 26 | 
 | [MeshOS for Android](https://github.com/andymux/meshos-releases) ![GitHub Repo stars](https://img.shields.io/github/stars/andymux/meshos-releases?style=social) | MeshOS for Android - An official MeshCore App  | Mar 26  | 
+| [Meshy](https://codeberg.org/sesivany/meshy) | a GTK4/libadwaita client for MeshCore. The goal, to provide the best Linux experience | Mar 26 | 
+| [Roadstr](https://github.com/jooray/roadstr) ![GitHub Repo stars](https://img.shields.io/github/stars/jooray/roadstr?style=social) | Decentralized road-event reporting using Nostr and MeshCore. Web and Android - "Waze without the centralized tracking" | Mar 26 |
+| [MeshCore HA UI](https://github.com/Ratty7198/MeshCore-HA-UI) ![GitHub Repo stars](https://img.shields.io/github/stars/Ratty7198/MeshCore-HA-UI?style=social)| A companion HACS integration that adds a full-featured dashboard for your MeshCore mesh network in Home Assistant (requires meshcore-ha) | Mar 26 | 
+| [Meshcute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social) | Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting  | Mar 26 |
+| [Pico Meshcore](https://github.com/Vigoleis912/PicoMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigoleis912/PicoMeshCore?style=social) | A lightweight MeshCore Companion client written in MMBasic for the PicoMite (Raspberry Pi Pico). | Mar 26  |
 
 ## Free and Open Source firmware
 
@@ -101,7 +108,9 @@ or IoT sensor networks.
 | [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
 | [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
 | [weebl2000's MeshCore Firmware Builder](https://mcimages.weebl.me/) | Build and download firmware images for your device.|  |
-
+| [Heltec V4.2 Multi-Boot Selector](https://github.com/Finmacjones/HeltecV4.2MultiBoot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Finmacjones/HeltecV4.2MultiBoot?style=social) | Multi-firmware boot selector for Heltec WiFi LoRa 32 V4.2 (ESP32-S3) | Mar 26 |
+| [Meshcore T-beam-1W](https://github.com/mintylinux/Meshcore-T-beam-1W-Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/Meshcore-T-beam-1W-Firmware?style=social) | Meshcore firmware for the Lilygo T-beam 1 Watt | Feb 26 | 
+| [Chiyocore](https://github.com/kore-signet/chiyocore) ![GitHub Repo stars](https://img.shields.io/github/stars/kore-signet/chiyocore?style=social) | an implementation of meshcore for ESP32s, written in rust | Mar 26 |
 
 ## Software Libraries
 
@@ -109,6 +118,7 @@ or IoT sensor networks.
 | :--- | :--- | :---: |
 | [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) ![GitHub Repo stars](https://img.shields.io/github/stars/Wavesonics/MeshCoreKmp?style=social) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | Feb 26 |
 | [Meshcore Client](https://github.com/dz0ny/meshcore_client) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore_client?style=social) | Flutter/Dart package implementing the MeshCore BLE companion protocol | Feb 26 |
+| [Meshcore Decoder](https://github.com/michaelhart/meshcore-decoder) ![GitHub Repo stars](https://img.shields.io/github/stars/michaelhart/meshcore-decoder?style=social) | A TypeScript library for decoding MeshCore mesh networking packets with full cryptographic support.  | Sep 25  |
 
 
 ## Maps and Diagnostics
@@ -130,6 +140,8 @@ or IoT sensor networks.
 | [UK Mesh Network](https://www.ukmesh.com/) | UK-wide public site for MeshCore traffic, repeater coverage, observer ingestion, and the supporting documentation behind the live map. [github](https://github.com/gadgethd/ukmesh) |
 | [Mesh Community Planner](https://github.com/PapaSierra555/MeshCommunityPlanner/) | Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. |
 | [MeshCore Wall of Shame](https://advertrank.com/) | Who's flooding the mesh today? a lighthearted look at mesh traffic, not a witch hunt. | 
+| [CoreScope](https://github.com/Kpa-clawbot/CoreScope) | network analyzer — live packet visualization, VCR replay, channel decryption, node health, analytics |
+| [Map Tiles Downloader](https://github.com/tekk/map-tiles-downloader) | This app helps you fetch map tiles quickly, for offline use with meshcore and other mesh networks |
 | [uMap "Meshcore Regionen Deutschland"](https://umap.openstreetmap.de/de/map/meshcore-regionen-deutschland_122026#6/51.896834/9.843750) | Editable map of regions, mainly Germany. (Please also read [this context info](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern).) |
 
 
@@ -167,8 +179,11 @@ or IoT sensor networks.
    - [Meshcore Austria](https://www.meshcore-austria.at/doku.php?id=start)
 - Czech Republic
   - [Meshcore Czechia](https://meshcore.cz/)
+- Finland
+  - [Mesh Pirkanmaa](https://meshpirkanmaa.org/) (Tampere region, including Nokia, Pirkkala, and Ylöjärvi) 
 - France
-  - [Meshcore France](https://www.meshcore.fr/) 
+  - [Meshcore France](https://www.meshcore.fr/)
+  - [Île-de-France Mesh](https://wiki.mesh-idf.fr)
 - Germany
   - German MeshCore wiki: [meshcore-de.fyi](https://meshcore-de.fyi/)
   - [BSmesh](https://bsmesh.de/) (area surrounding Braunschweig, includes several cities)
@@ -180,6 +195,7 @@ or IoT sensor networks.
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
+  - [MeshCore Wales](https://meshcore.wales/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
@@ -228,6 +244,8 @@ or IoT sensor networks.
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
+  - [Kentucky Mesh](https://mesh-ky.org/)
+  - [Lexington, KY Mesh](https://meshcorelexington.com/)
   - [Louisiana Mesh](https://louisianamesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
@@ -237,6 +255,7 @@ or IoT sensor networks.
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
   - [Silicon Valley 73 Mesh](https://73mesh.com/)
   - [Spokane Mesh](https://www.spokanemesh.net/)
+  - [TennMesh](https://tennmesh.com/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
 ### Oceania
@@ -245,6 +264,7 @@ or IoT sensor networks.
   - [Brisbane and SEQ](https://wiki.mbug.com.au/en/Meshcore/Settings)
   - [East Mesh](https://eastmesh.au/)
   - [MeshCore Western Australia](https://perth.meshcore.au/)
+  - [Mesh Sydney](https://meshsydney.com/)
   - [NSW Mesh](https://nswmesh.au/)
 
 
