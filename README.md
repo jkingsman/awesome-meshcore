@@ -140,7 +140,7 @@ or IoT sensor networks.
 | [UK Mesh Network](https://www.ukmesh.com/) | UK-wide public site for MeshCore traffic, repeater coverage, observer ingestion, and the supporting documentation behind the live map. [github](https://github.com/gadgethd/ukmesh) |
 | [Mesh Community Planner](https://github.com/PapaSierra555/MeshCommunityPlanner/) | Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. |
 | [MeshCore Wall of Shame](https://advertrank.com/) | Who's flooding the mesh today? a lighthearted look at mesh traffic, not a witch hunt. | 
-| [MeshCore Analyzer](https://github.com/Kpa-clawbot/meshcore-analyzer) | network analyzer — live packet visualization, VCR replay, channel decryption, node health, analytics |
+| [CoreScope](https://github.com/Kpa-clawbot/CoreScope) | network analyzer — live packet visualization, VCR replay, channel decryption, node health, analytics |
 | [Map Tiles Downloader](https://github.com/tekk/map-tiles-downloader) | This app helps you fetch map tiles quickly, for offline use with meshcore and other mesh networks |
 
 
