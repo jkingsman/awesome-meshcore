@@ -94,6 +94,7 @@ or IoT sensor networks.
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/CubeCellMeshCore?style=social) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | Jan 26 |
 | [Meck](https://github.com/pelgraine/Meck) ![GitHub Repo stars](https://img.shields.io/github/stars/pelgraine/Meck?style=social) | T-Deck pro | Jan 25 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) ![GitHub Repo stars](https://img.shields.io/github/stars/mtoolstec/TapTapFW?style=social) | T1000-E & WisMesh Tag — enhanced messaging capabilities and specific button interactions | Feb 26 |
+| [Field Mesh](https://github.com/TogeriX-hub/FieldMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/TogeriX-hub/FieldMesh?style=social) | MeshCore firmware fork for outdoor use — GPS tracking, Off-Grid mode with Client Repeat, and SOS alerts. | Mar 26 |
 | [Mesh Loader](https://github.com/eliahreeves/mesh-loader) ![GitHub Repo stars](https://img.shields.io/github/stars/eliahreeves/mesh-loader?style=social) | "Dual Boot" firmware for running Meshcore and Meshtastic on a single ESP32 based device without re-flashing. | Feb 26 |
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/meshcomod?style=social) | MeshCore addon for Heltec WiFi LoRa 32 V4 | Feb 26 |
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | Jan 26 |
