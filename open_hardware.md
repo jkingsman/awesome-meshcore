@@ -14,3 +14,5 @@
 ## Fucktech variant
 
 [Fucktech v8](https://oshwhub.com/allrounderkali/v8)
+
+[Enclosure](https://www.aliexpress.com/i/1005009142158113.html)
