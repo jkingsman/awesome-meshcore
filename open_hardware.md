@@ -11,3 +11,6 @@
 * [Ebyte modules](https://www.google.com/search?client=firefox-b-d&q=ebyte+sx1280) (Including SX1280 @2.4Ghz)
 * [Pro Micro](https://github.com/sasodoma/nrf52840-promicro)
 
+## Fucktech variant
+
+[Fucktech v8](https://oshwhub.com/allrounderkali/v8)
