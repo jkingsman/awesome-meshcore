@@ -9,7 +9,7 @@
 | **基于ESP32C6的全功能meshtastic节点** | [oshwhub.com](https://oshwhub.com/kazagumo) | ESP32-C6 | Ebyte E22-400M30S | Display + buzzer + RGB LED + joystick, all hardware-verified; one of the only ESP32-C6 Meshtastic designs on the platform |
 | **TinyLora-C3 V4.1** | [oshwhub.com](https://oshwhub.com/kangyuzhe) | ESP32-C3 | 22/29/30/33 dBm modules | Wide-input power (USB-C, 7–36 V, or LiPo), built-in solar charge circuit, supports high-power modules up to 33 dBm; Meshtastic & MeshCore compatible |
 | **lorawan迷你终端-随身meshtastic-温湿度计** | [oshwhub.com](https://oshwhub.com/kangyuzhe) | ESP32-C3 | SX1262 | Pocket-sized verified build with onboard AHT30 temperature/humidity sensor for environmental mesh telemetry |
-| **SakuraPi Pocket Namiji** | [oshwhub.com](https://oshwhub.com/SakuraPi%20org) | — | LoRa module | Ultra-compact community platform for Meshtastic/LoRaMesh with full 3D-printable case files and firmware docs; flexible power; designed for solar nodes and indoor fixed deployments |
+| **SakuraPi Pocket Namiji** | [oshwhub.com](https://oshwhub.com/sakurapi/sakurapi-pocket-namiji) | — | LoRa module | Ultra-compact community platform for Meshtastic/LoRaMesh with full 3D-printable case files and firmware docs; flexible power; designed for solar nodes and indoor fixed deployments |
 | **TinyLoRa-C3开发板** | [oshwhub.com](https://oshwhub.com/kangyuzhe/esp32c3-ra-01sc-kai-fa-ban-v0-1) | ESP32-C3FH4 (~¥7) | LLCC68 / multi-module | Base dev board for the kangyuzhe lineup; 1 mm PCB for improved antenna performance; 5 LoRa modules tested and verified |
 
 
