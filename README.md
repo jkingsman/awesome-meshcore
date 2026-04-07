@@ -85,6 +85,7 @@ or IoT sensor networks.
 | [MeshCore HA UI](https://github.com/Ratty7198/MeshCore-HA-UI) ![GitHub Repo stars](https://img.shields.io/github/stars/Ratty7198/MeshCore-HA-UI?style=social)| A companion HACS integration that adds a full-featured dashboard for your MeshCore mesh network in Home Assistant (requires meshcore-ha) | Mar 26 | 
 | [Meshcute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social) | Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting  | Mar 26 |
 | [Pico Meshcore](https://github.com/Vigoleis912/PicoMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigoleis912/PicoMeshCore?style=social) | A lightweight MeshCore Companion client written in MMBasic for the PicoMite (Raspberry Pi Pico). | Mar 26  |
+| [Domoticz-MeshCore-Plugin](https://github.com/galadril/Domoticz-MeshCore-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/galadril/Domoticz-MeshCore-Plugin?style=social) | Domoticz plugin for MeshCore | Apr 26 |
 
 ## Free and Open Source firmware
 
