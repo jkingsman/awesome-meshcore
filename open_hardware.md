@@ -3,7 +3,7 @@
 
 | Project | Link | MCU | LoRa | Standout Features |
 |---|---|---|---|---|
-| **meshtastic设备-Fucktec** | [oshwhub.com](https://oshwhub.com/allrounderkali) | nRF52 | LoRa module | FakeTec variant with screen, GPS, and an onboard MPPT solar charge controller squeezed into the original FakeTec footprint; circuits are modular so sections can be omitted |
+| **meshtastic设备-Fucktec** | [oshwhub.com](https://pro.lceda.cn/editor#id=03fbd7d6ad2d4bc488040531364920eb,tab=*50f287428cd7428690cb6aa73281e293|*50f287428cd7428690cb6aa73281e293@03fbd7d6ad2d4bc488040531364920eb) | nRF52 | LoRa module | FakeTec variant with screen, GPS, and an onboard MPPT solar charge controller squeezed into the original FakeTec footprint; circuits are modular so sections can be omitted |
 
 ## Ancillary components 
 * [Pro Micro](https://github.com/sasodoma/nrf52840-promicro)
