@@ -6,13 +6,10 @@
 * [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) ~$10pc
 * [Xiao NRF52](https://www.aliexpress.com/item/1005009606027401.html) ~$10pc
 
-
-
 ## Ancillary components 
 * [Enclosure](https://www.aliexpress.com/i/1005009142158113.html)
-
-
-
+* [20W panel](https://www.aliexpress.com/item/1005007377492727.html)
+* [Propriatry battery](https://www.aliexpress.com/item/1005009840834258.html)
 
 ## Alternate PCB's
 
