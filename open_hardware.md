@@ -1,12 +1,14 @@
 
-## Most capable Open Hardware board
+## WIP dual radio solar repeater
 
-| Project | Link | MCU | LoRa | Standout Features |
-|---|---|---|---|---|
-| **meshtastic设备-Fucktec** | [oshwhub.com](https://pro.easyeda.com/editor#id=856ffe4c3d064868a1c88e3aa3d39bd1) | nRF52 | LoRa module | FakeTec variant with screen, GPS, and an onboard MPPT solar charge controller squeezed into the original FakeTec footprint; circuits are modular so sections can be omitted |
+* [Carrier board](https://easyeda.com/editor#id=fb59d916eabb44529eb920ae43cecbec) ~$10pc
+* [MPPT](https://oshwhub.com/qq946333519/tai-yang-neng-chong-dian-mo-kuai-1-jie-san-yuan-li-dian-chi-cn3791)
+* [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) ~$10pc
+* [Xiao NRF52](https://www.aliexpress.com/item/1005009606027401.html) ~$10pc
+
+
 
 ## Ancillary components 
-* [Pro Micro](https://github.com/sasodoma/nrf52840-promicro)
 * [Enclosure](https://www.aliexpress.com/i/1005009142158113.html)
 
 
@@ -16,6 +18,7 @@
 
 | Project | Link | MCU | LoRa | Standout Features |
 |---|---|---|---|---|
+| **meshtastic设备-Fucktec** | [oshwhub.com](https://pro.easyeda.com/editor#id=856ffe4c3d064868a1c88e3aa3d39bd1) | nRF52 | LoRa module | FakeTec variant with screen, GPS, and an onboard MPPT solar charge controller squeezed into the original FakeTec footprint; circuits are modular so sections can be omitted [Pro Micro](https://github.com/sasodoma/nrf52840-promicro)|
 | **meshtastic nrf52840 mgt** | [oshwhub.com](https://oshwhub.com/mgt19937/meshtastic-nrf52840-prototype_2024-10-22_00-31-47) | nRF52840 (Pro Micro) | LoRa module | Fully handmade handheld node; reworked antenna layout specifically for the Pro Micro footprint; ¥100 to clone |
 | **meshtastic-mini** | [oshwhub.com](https://oshwhub.com/SHENYE894) | nRF52840 | LoRa module | Single-node device with optimised nRF52840 Bluetooth antenna section for extended BT range |
 | **meshtastic太阳能端** | [oshwhub.com](https://oshwhub.com/allrounderkali) | nRF52 | LoRa module | Dedicated solar repeater/endpoint; solar panel power is selectable based on target power budget |
