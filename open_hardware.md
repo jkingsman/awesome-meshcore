@@ -1,15 +1,15 @@
 
 ## WIP dual radio solar repeater
 
-* [Carrier board](https://easyeda.com/editor#id=eab95bf0211744a4a247ee10e4d3c709) ~$10pc
-* [MPPT](https://oshwhub.com/qq946333519/tai-yang-neng-chong-dian-mo-kuai-1-jie-san-yuan-li-dian-chi-cn3791) ~$17
+* [Carrier board](https://easyeda.com/editor#id=cd57feda44084e079d86008224a6e7eb|eab95bf0211744a4a247ee10e4d3c709) ~$10pc
+* [Charge control](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) ~$1
 * [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) ~$10pc
-* [Pro Micro](https://github.com/sasodoma/nrf52840-promicro)| ~$4
+* [Pro Micro](https://github.com/sasodoma/nrf52840-promicro) ~$4
   
 ## Ancillary components 
 * [Enclosure](https://www.aliexpress.com/i/1005009142158113.html)
-* [20W panel](https://www.aliexpress.com/item/1005007377492727.html)
-* [Proprietary battery](https://www.aliexpress.com/item/1005009840834258.html)
+* [5V 20W panel](https://www.aliexpress.com/w/wholesale-20watt-5v-solar-.html)
+* [ALT Proprietary battery](https://www.aliexpress.com/item/1005009840834258.html)
 
 ## Alternate PCB's
 
