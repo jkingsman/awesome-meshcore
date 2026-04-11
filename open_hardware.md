@@ -1,5 +1,5 @@
 
-## WIP dual radio solar repeater
+## WIP Solar repeater
 
 * [Carrier board](https://easyeda.com/editor#id=cd57feda44084e079d86008224a6e7eb) ~$10pc
 * [Charge control](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) ~$1
@@ -9,7 +9,7 @@
 ## Ancillary components 
 * [Enclosure](https://www.aliexpress.com/item/1005006751970338.html) ~$22
 * [5V panel](https://www.aliexpress.com/w/wholesale-20watt-5v-solar-.html) ~$10
-* [21700 battery](https://www.aliexpress.com/w/wholesale-21700-battery.html)
+* [21700 battery](https://www.aliexpress.com/w/wholesale-21700-battery.html) ~$6
 * [ALT Proprietary battery](https://www.aliexpress.com/item/1005009840834258.html)
 
 ## Alternate PCB's
