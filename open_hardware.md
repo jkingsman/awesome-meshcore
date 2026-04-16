@@ -2,9 +2,9 @@
 ## WIP Solar repeater
 
 * [Carrier board](https://easyeda.com/editor#id=96f8a134cc9a4c0fb65abfa5afd7bd93) ~$10pc
-* [Charge control](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) ~$1
+* [Charge control W temp](https://easyeda.com/editor#id=4d89498e7f9949fda46f6c9299993ad9) or [cheap Charge control (no temp control)](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) ~$1
 * [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) ~$10pc
-* [XIAO NRF52](https://wiki.seeedstudio.com/XIAO_BLE/#seeed-studio-xiao-nrf52840) ~$15
+* [XIAO NRF52](https://wiki.seeedstudio.com/XIAO_BLE/#seeed-studio-xiao-nrf52840) ~$15 (other Xiao boards also possible)
   
 ## Ancillary components 
 * [Enclosure](https://www.aliexpress.com/item/1005006751970338.html) ~$22
