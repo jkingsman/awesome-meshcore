@@ -17,6 +17,12 @@ Todo: Updated schematics
 * [5V panel](https://www.aliexpress.com/w/wholesale-20watt-5v-solar-.html) ~$10
 * [21700 battery](https://www.aliexpress.com/w/wholesale-21700-battery.html) ~$6
 
+## What is it for?
+* Primary use case is to explore [bridging Meshcore (868Mhz) over Retuculum (2.4Ghz)](https://github.com/samuk/Reticulum/blob/master/docs/meshcore-bridge.md)
+* It could also be used with two 868Mhz radios on different channels if sufficient antenna spacing was achieved, eg the [Mikro click boards](https://www.mikroe.com/click/wireless-connectivity/lora)
+* It could just be a single radio 868Mhz repeater with an empty slot
+  
+
 ## Alternate power solutions  
 * [ALT Proprietary battery (Expensive)](https://www.aliexpress.com/item/1005009840834258.html)
 * [Charge control (W temp, no 3.3v)](https://easyeda.com/editor#id=4d89498e7f9949fda46f6c9299993ad9)
