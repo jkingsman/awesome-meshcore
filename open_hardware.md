@@ -1,16 +1,26 @@
 
 ## WIP Solar repeater
 
-* [Carrier board](https://easyeda.com/editor#id=96f8a134cc9a4c0fb65abfa5afd7bd93) ~$10pc
-* [Charge control W temp](https://easyeda.com/editor#id=4d89498e7f9949fda46f6c9299993ad9) or [cheap Charge control (no temp control)](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) ~$1
-* [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) ~$10pc
-* [XIAO NRF52](https://wiki.seeedstudio.com/XIAO_BLE/#seeed-studio-xiao-nrf52840) ~$15 (other Xiao boards also possible)
+Warning: Currently untested. Fabricate at own risk
+
+* [WIP Carrier board](https://easyeda.com/editor#id=592064109fa14cb9928a27941568b825) 2x Xiao connected with UART, Solar/ battery control, Mikro click header ~$10pc
+* [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) SX1280 in Mikro format ~$10pc
+* [WIP Optional supplimental/ standalone battery board](https://easyeda.com/editor#id=32531419fb5846f99fff6a716b25fd8e) Provides 3.3v with over/under voltage & temp protection ~$5pc
+* [XIAO NRF52](https://wiki.seeedstudio.com/XIAO_BLE/#seeed-studio-xiao-nrf52840) Nrf52/ ESP32 etc ~$15 (other Xiao boards also possible)
+
+The above is intended for experiments with dual radio 2.4Ghz/ 868Mhz LoRa, can also be used as a standard ~868Mhz/ 915Mhz repeater.
+
+Todo: Updated schematics
   
 ## Ancillary components 
 * [Enclosure](https://www.aliexpress.com/item/1005006751970338.html) ~$22
 * [5V panel](https://www.aliexpress.com/w/wholesale-20watt-5v-solar-.html) ~$10
 * [21700 battery](https://www.aliexpress.com/w/wholesale-21700-battery.html) ~$6
-* [ALT Proprietary battery](https://www.aliexpress.com/item/1005009840834258.html)
+
+## Alternate power solutions  
+* [ALT Proprietary battery (Expensive)](https://www.aliexpress.com/item/1005009840834258.html)
+* [Charge control (W temp, no 3.3v)](https://easyeda.com/editor#id=4d89498e7f9949fda46f6c9299993ad9)
+* [Aliexpress Charge control (no temp control)](https://www.aliexpress.com/w/wholesale-SD05CRMA-pins.html) (no 3v regulation of low voltage protection)
 
 ## Alternate PCB's
 
