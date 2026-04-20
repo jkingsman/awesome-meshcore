@@ -3,7 +3,7 @@
 
 Warning: Currently untested. Fabricate at own risk
 
-* [WIP Carrier board](https://easyeda.com/editor#id=32ccec322d424b3c908e58010bf9713c) 2x Xiao connected with UART & SPI, Extended SPI flash, Solar/ battery control, Mikro click header ~$10pc
+* [WIP Carrier board](https://easyeda.com/editor#id=6f9e8fe820e14e6a95c0c5b6eae5c95c) 2x Xiao connected with UART, Solar/ battery control, Mikro click header ~$10pc
 * [WIP 2.4Ghz Lora Click board](https://easyeda.com/editor#id=6d2e6629ff40472cb557240839030eae) SX1280 in Mikro format ~$10pc
 * [WIP Optional supplimental/ standalone battery board](https://easyeda.com/editor#id=32531419fb5846f99fff6a716b25fd8e) Provides 3.3v with over/under voltage & temp protection ~$5pc
 * [XIAO NRF52](https://wiki.seeedstudio.com/XIAO_BLE/#seeed-studio-xiao-nrf52840) Nrf52/ ESP32 etc ~$15 (other Xiao boards also possible)
