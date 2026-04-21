@@ -16,7 +16,7 @@ Todo: Updated schematics
 * [21700 battery](https://www.aliexpress.com/w/wholesale-21700-battery.html) ~$6
 
 ## What is it for?
-* Primary use case is to explore [bridging Meshcore (868Mhz) over Retuculum (2.4Ghz)](https://github.com/samuk/Reticulum/blob/master/docs/meshcore-bridge.md)
+* Primary use case is to explore [bridging Meshcore (868Mhz) over Retuculum (2.4Ghz)](https://github.com/samuk/Reticulum/blob/master/docs/meshcore-bridge.md) some [discussion of that here](https://github.com/meshcore-dev/MeshCore/discussions/1736)
 * It could also be used with two 868Mhz radios on different channels if sufficient antenna spacing was achieved, eg the [Mikro click boards](https://www.mikroe.com/click/wireless-connectivity/lora)
 * It could just be a single radio 868Mhz repeater with an empty slot
   
